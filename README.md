@@ -3,7 +3,7 @@
 
 - 👀 I'm interested in Web Development !
 - 🌱 I’m currently learning **Ruby On Rails**
-- 💬 Before coding, I used to work in **marketing industry** for 7 years
+- 💬 Before coding, I used to work in **marketing & innovation** (7 years)
 - 📫 You can reach me there : **andrea.prouvost@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
