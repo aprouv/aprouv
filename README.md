@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andréa</h1>
-<h3 align="center">I'm interested in Web Development !</h3>
 
+- 👀 I'm interested in Web Development !
 - 🌱 I’m currently learning **Ruby On Rails**
 
 <h3 align="left">Languages and Tools:</h3>
