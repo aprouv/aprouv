@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer from Paris</h3>
 
 - 👀 I'm interested in Web Development !
-- 🌱 I’m currently learning **Ruby On Rails**
+- 🌱 I’m currently learning **React**
 - 💬 Before coding, I used to work in **marketing & innovation** (7 years)
 - 📫 You can reach me there : **andrea.prouvost@gmail.com**
 
