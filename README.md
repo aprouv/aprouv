@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andréa</h1>
-<h3 align="center">A Full Stack Developer from Lyon 🇫🇷</h3>
+<h3 align="center">A Full Stack Developer from Lyon :france:</h3>
 
 - 👀 I'm interested in Web Development !
 - 🌱 I’m currently learning **React**
